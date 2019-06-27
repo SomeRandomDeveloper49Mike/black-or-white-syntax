@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/black-or-white-syntax",
+  "repository": "https://github.com/SomeRandomDeveloper49Mike/black-or-white-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
